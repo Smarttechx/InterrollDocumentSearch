@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "973949305257",
+    "firebase_url": "https://interoll-document-search.firebaseio.com",
+    "project_id": "interoll-document-search",
+    "storage_bucket": "interoll-document-search.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973949305257:android:5a731a56e3349b10",
+        "android_client_info": {
+          "package_name": "com.softdev.smarttechx.interrolldocumentsearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973949305257-c2lqb610po21nelaroka2mamrg80q8io.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.softdev.smarttechx.interrolldocumentsearch",
+            "certificate_hash": "c71315c7dbf52ea962edf88768415a096ac97a25"
+          }
+        },
+        {
+          "client_id": "973949305257-ipm4os2mmp3io1v636gfk4dfd13psgv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHO5V_CZIZKj5-grzVq0y5T50qLE-ciBM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973949305257-ipm4os2mmp3io1v636gfk4dfd13psgv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
